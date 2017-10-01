@@ -1,3 +1,3 @@
 # Rails-Wikis
 
-Add holding place of How To​s for Rails
+A Holding Place of How To​s for Rails
